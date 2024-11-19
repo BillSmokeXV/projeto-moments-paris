@@ -160,6 +160,7 @@ ul li a:hover {
 }
 
 #social-links a {
+  text-shadow: 0 0 5px #000;
   display: flex;
   align-items: center;
   justify-content: center;
