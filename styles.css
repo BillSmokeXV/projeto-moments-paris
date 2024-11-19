@@ -14,7 +14,7 @@
 }
 
 .light-mode {
-  --text-color: white;
+  --text-color: black;
   --bg-url: url(./assets/Teste2.jpg);
   --stroke-color: rgba(0, 0, 0, 0.5);
   --surface-color: rgba(0, 0, 0, 0.05);
